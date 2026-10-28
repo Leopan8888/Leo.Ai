@@ -1,8 +1,8 @@
 # Leo.Ai · AI 做视频工具实测裁决库
 
 > 我是 Leo Pan（Leo.Ai），小红书「Ai的花椒味」（Leo77778）。我用代码和 AI 做短视频，单条视频播放 211 万、近 7 日观看 203 万（后台数据）。
-> 这是我标星的 200 多个仓库的**实查裁决**：每一个都真实打开看过——星数、许可证、最近更新、跟我的生产管线合不合——然后给一个明确结论。不是抄链接的收藏夹。
-> 每周更新。
+> 我一共标星了 200 多个仓库，正在逐一实查裁决——**本库已裁决 21 个，每周补**。每一个都真实打开看过：星数、许可证、最近更新、跟我的生产管线合不合，然后给一个明确结论。不是抄链接的收藏夹。
+> 各仓星数为 2026 年 10 月实查值，随每周更新修订。
 
 ## 裁决分级
 
@@ -21,9 +21,11 @@
 | [lemomo-ai/lemo-opuscar](https://github.com/lemomo-ai/lemo-opuscar)（★8,770） | 代码绘制视频 Skill 集 | 方法论与质检口径在用 |
 | [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft)（★14,162） | 152 张电影感镜头卡 | 镜头语言弹药库 |
 | [guanmo-ai/design-style](https://github.com/guanmo-ai/design-style)（★137） | 每天一个设计风格 | 小而精，风格拆解的稳定来源 |
-| huashu-motion（花叔） | HTML 动画包装 | 包装层在用；铁律是定制开发，不套模板 |
+| [alchaincyf/huashu-motion](https://github.com/alchaincyf/huashu-motion)（★1,830） | HTML 动画包装（花叔） | 包装层在用；铁律是定制开发，不套模板 |
 
 ## 🔧 拆件
+
+> 说明：本区只拆方法与零件，原仓的渲染引擎（如 Remotion）不随之引入——我的管线仍走自有引擎。
 
 | 仓库 | 拆了什么 |
 |---|---|
@@ -42,7 +44,8 @@
 | [xpzouying/xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp)（★16,616） | 能力清单核完、分级方案定了；平台规则灰色，本人决定先放一下 |
 | [PurpleDoubleD/locally-uncensored](https://github.com/PurpleDoubleD/locally-uncensored)（★2,811，AGPL-3.0） | 本地无审查 AI 工作室；要 GPU 硬件，手机党用不上 |
 | [anhao/ai-pose-gallery-zh](https://github.com/anhao/ai-pose-gallery-zh)（★775） | 姿势图库汉化版；注意：图片明确不得商用，只当查阅字典 |
-| frederick-kk/ppt-rebuilder-king（★12，MIT） | PPT 图片→可编辑 PPTX 还原；小仓，我不交付 PPTX，用时再验 |
+| [frederick-kk/ppt-rebuilder-king](https://github.com/frederick-kk/ppt-rebuilder-king)（★12，MIT） | PPT 图片→可编辑 PPTX 还原；小仓，我不交付 PPTX，用时再验 |
+| [Barty-Bart/motion-graphics](https://github.com/Barty-Bart/motion-graphics)（★896） | 功能对口（字幕同步动态图形/主体分离/音效），但许可证未标注，先观望 |
 | [Vincentwei1021/video-talkcraft](https://github.com/Vincentwei1021/video-talkcraft)（★1,827） | 口播解说片方法正对口（字级配音同步/反 PPT 镜头系统/三重验收）；但许可证是 PolyForm 非商用、本体商用需作者授权，引擎又是 Remotion——只学方法，不入管线 |
 
 ## ❌ 否决
@@ -50,9 +53,8 @@
 | 仓库 | 否决理由 |
 |---|---|
 | [anYuJia/better-douyin](https://github.com/anYuJia/better-douyin)（★988） | 开源的只是壳、真应用闭源还要激活码；非官方客户端 + AI 控号 = 封号风险 |
-| Remotion（★68,328） | 框架是好框架；商用条款 + React 重写成本，与现有栈不合 |
+| [remotion-dev/remotion](https://github.com/remotion-dev/remotion)（★68,328） | 框架是好框架；商用条款 + React 重写成本，与现有栈不合 |
 | [nateherkai/herk-edit-kit](https://github.com/nateherkai/herk-edit-kit)（★2,286） | 许可证未标注，来路不明不碰；且是真人口播剪辑路子 |
-| Barty-Bart/motion-graphics（★896） | 功能对口，但许可证未标注，先观望 |
 
 ---
 
@@ -70,3 +72,5 @@
 - 本库的裁决来自真实生产：被否决的，多半是我真金白银踩过或者差点踩的坑
 
 *最后更新：2026-10-28 · 裁决为个人实测意见，不构成使用建议*
+
+*许可证：本库文字内容以 [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.zh) 发布（见 LICENSE 文件）；所列各仓库的权利归其作者、适用各自许可证。*
