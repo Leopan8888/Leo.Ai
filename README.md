@@ -43,6 +43,7 @@
 | [PurpleDoubleD/locally-uncensored](https://github.com/PurpleDoubleD/locally-uncensored)（★2,811，AGPL-3.0） | 本地无审查 AI 工作室；要 GPU 硬件，手机党用不上 |
 | [anhao/ai-pose-gallery-zh](https://github.com/anhao/ai-pose-gallery-zh)（★775） | 姿势图库汉化版；注意：图片明确不得商用，只当查阅字典 |
 | frederick-kk/ppt-rebuilder-king（★12，MIT） | PPT 图片→可编辑 PPTX 还原；小仓，我不交付 PPTX，用时再验 |
+| [Vincentwei1021/video-talkcraft](https://github.com/Vincentwei1021/video-talkcraft)（★1,827） | 口播解说片方法正对口（字级配音同步/反 PPT 镜头系统/三重验收）；但许可证是 PolyForm 非商用、本体商用需作者授权，引擎又是 Remotion——只学方法，不入管线 |
 
 ## ❌ 否决
 
